@@ -1,7 +1,6 @@
+NAME-AYUKA MARITA
+REGISTRATION-ENC211/0302/2023
+COURSE-CIVIL ENGINEERING 1.2
 
 
-<!---
-SCHOOL WORK 
-is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
